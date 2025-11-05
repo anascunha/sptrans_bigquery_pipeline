@@ -1,0 +1,13 @@
+{
+  "sptrans": {
+    "base_url": "http://api.olhovivo.sptrans.com.br/v2.1",
+    "token": "8938a6cffba6bcd1b0dde6e0cbe436d88f3e8a58f120d9303ef7d04e6da6d5f2"
+  },
+  "bigquery": {
+    "credentials_file": "D:/Estudos/Projeto_SPTrans/sptrans_bigquery_pipeline/credentials/sptrans-476623-0f8c78b759b4.json",
+    "project_id": "103414186963",
+    "dataset_id": "sptrans",
+    "table_id": "sptrans_posicoes"
+  }
+
+}
